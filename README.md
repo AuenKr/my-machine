@@ -21,7 +21,7 @@ Method 2 :
 ### Installed tools
 
 1. Git
-2. Docker
+2. ~~Docker~~
 3. Node Version Manager (nvm)
 4. Nodejs v20.16.0
 5. Bun
