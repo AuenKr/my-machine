@@ -52,6 +52,7 @@ ENV PATH=$NVM_DIR/versions/node/v20.16.0/bin:$PATH
 # Verify installation
 RUN node -v && npm -v
 RUN npm i -g bun
+RUN npm i -g vercel
 
 # Installing neovim
 RUN mkdir -p /root/.local
